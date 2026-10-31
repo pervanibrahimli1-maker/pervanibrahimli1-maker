@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Parvan İbrahimli 👋
 
-<!--
-**pervanibrahimli1-maker/pervanibrahimli1-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer based in Baku, Azerbaijan. I build fast, accessible
+and responsive web apps with React and TypeScript.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** React, Next.js
+- **Styling:** Tailwind CSS, SCSS
+- **Tools:** Git, Vite, Figma, Vitest
+
+## 🚀 Featured Projects
+
+- **[Layihə 1 adı](repo-linki)** – Bir cümlə ilə nə edir. ([Live demo](demo-linki))
+- **[Layihə 2 adı](repo-linki)** – Bir cümlə ilə nə edir. ([Live demo](demo-linki))
+- **[Layihə 3 adı](repo-linki)** – Bir cümlə ilə nə edir. ([Live demo](demo-linki))
+
+## 📚 Currently
+
+- Learning: Next.js App Router / testing
+- Looking for: Frontend Developer opportunities (remote or Baku)
+
+## 📫 Contact
+
+- LinkedIn: [link]
+- Email: [email]
+- Portfolio: [link]
